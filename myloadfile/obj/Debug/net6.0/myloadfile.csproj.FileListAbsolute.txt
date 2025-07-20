@@ -1,0 +1,28 @@
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\bin\Debug\net6.0\myloadfile.exe
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\bin\Debug\net6.0\myloadfile.deps.json
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\bin\Debug\net6.0\myloadfile.runtimeconfig.json
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\bin\Debug\net6.0\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\bin\Debug\net6.0\myloadfile.pdb
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.AssemblyInfoInputs.cache
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.AssemblyInfo.cs
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.csproj.CoreCompileInputs.cache
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\refint\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.pdb
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\myloadfile.genruntimeconfig.cache
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\obj\Debug\net6.0\ref\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\bin\Debug\net6.0\myloadfile.exe
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\bin\Debug\net6.0\myloadfile.deps.json
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\bin\Debug\net6.0\myloadfile.runtimeconfig.json
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\bin\Debug\net6.0\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\bin\Debug\net6.0\myloadfile.pdb
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.AssemblyInfoInputs.cache
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.AssemblyInfo.cs
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.csproj.CoreCompileInputs.cache
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\refint\myloadfile.dll
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.pdb
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\myloadfile.genruntimeconfig.cache
+C:\Users\efimo\Рабочий стол\vsd\myloadfile\C#\myloadfile 3.0\obj\Debug\net6.0\ref\myloadfile.dll

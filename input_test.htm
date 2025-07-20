@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>Тест myloadfile multiple input</TITLE>
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=windows-1251">
+</HEAD>
+<body>
+<div id="allpage">
+<div class="TITLE" style="text-align:center;margin:5px">
+<h2>Отправка файла и загрузка его на сервер через myloadfile.exe</h2>
+</div>
+Для загрузки только одного файла:
+<FORM id="f1" method="POST"  enctype="multipart/form-data" action="cgi-bin/myloadfile.exe">
+<INPUT TYPE="text" name="USER" value="" placeholder="логин">
+<INPUT ID="NAMEFILE" TYPE="FILE" NAME="NAMEFILE" >
+<BUTTON TYPE="SUBMIT" CLASS="BUTTONSMALL" style="border-radius:10px">
+ОТПРАВИТЬ 1 файл
+</BUTTON>
+</FORM>
+</div>
+<br>
+Для загрузки сразу нескольких файлов:
+<FORM id="f1" method="POST"  enctype="multipart/form-data" action="cgi-bin/myloadfile.exe">
+<INPUT TYPE="text" name="USER" value="" placeholder="логин">
+<input type="file" name="NAMEFILE" id="file" multiple>
+<BUTTON TYPE="SUBMIT" CLASS="BUTTONSMALL" style="border-radius:10px">
+ОТПРАВИТЬ ВСЕ ФАЙЛЫ
+</BUTTON>
+</FORM>
+</BODY>
+</HTML>
